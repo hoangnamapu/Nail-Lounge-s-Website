@@ -1,0 +1,8 @@
+streamlit==1.31.0
+watchdog==3.0.0
+plotly==5.18.0
+SQLAlchemy==2.0.25
+streamlit-autorefresh==1.0.1
+st_supabase_connection==1.2.2
+supabase==2.4.3
+streamlit_option_menu==0.3.12
